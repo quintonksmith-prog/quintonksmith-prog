@@ -68,11 +68,3 @@
 </div>
 
 ---
-
-### Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/-Wck53%40cornell.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Wck53@cornell.edu)
-
-</div>
